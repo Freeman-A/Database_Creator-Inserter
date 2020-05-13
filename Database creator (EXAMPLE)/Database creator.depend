@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589022083 source:c:\users\andre\desktop\database creator\main.cpp
+	<iostream>
+	"sqlite3\sqlite3.h"
+
+1589020974 c:\users\andre\desktop\database creator\sqlite3\sqlite3.h
+	<stdarg.h>
+
